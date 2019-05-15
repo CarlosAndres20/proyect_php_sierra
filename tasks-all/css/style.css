@@ -1,0 +1,59 @@
+body{
+background-attachment: fixed;
+background: url("../img/acc.jpg");
+background-size: cover;
+top: 0;
+height: 100vh;
+}
+
+
+.borde{
+    background: crimson;
+    height: 200px;
+}
+.borde1{
+    background-color:rosybrown;
+   
+}
+.borde2{
+    background-color: darkcyan;
+   
+}
+.borde3{
+    background-color: hotpink;
+  
+}
+.class-wud{
+   padding: 1%;
+}
+.edit{
+    color: white !important;
+    padding: 10px !important;
+    font-size: 1rem !important;
+    border-bottom: 2px solid white !important;
+    width: 10% !important;
+}
+.edit2{
+    color: white !important;
+    padding: 10px !important;
+    font-size: 1rem !important;
+    border-bottom: 2px solid white !important;
+    width: 8% !important;
+   
+}
+.conta{
+
+    transition: 1s  !important;
+    border: none;
+
+}
+.editt{
+    color: black!important;
+    font-size: 0.8rem !important;
+    padding: 5px !important;
+    border-left: 1px solid white !important;
+    width: 20% !important;
+    background:lightgreen;
+  
+}
+
